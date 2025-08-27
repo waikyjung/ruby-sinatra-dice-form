@@ -1,3 +1,10 @@
 # sinatra-dice-form
 
-Target: https://dice-form.matchthetarget.com/
+## Description
+This is a dice rolling program in Ruby & Sinatra.
+
+## Starting the Application
+To start the application:
+```
+ruby app.rb
+```
